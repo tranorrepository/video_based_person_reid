@@ -1,4 +1,5 @@
-# vedio-based-person-re-identification
+# video_based_person_reid
+
 ### Introduction
 code for fouth chapture of my master's thesis
 
