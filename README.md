@@ -12,6 +12,6 @@ I implement (1) QAN "Quality Aware Network for Set to Set Recognition"(https://a
  
 
 ### Dataset
-market1501 and duckmtmc-reid
+mars and ilid
 
 
